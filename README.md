@@ -1,6 +1,7 @@
 # surprise-prank-python
 just open the exe file..... this is an surprise to you 😁😁😁
-
+# required install for run py file
+    pip install pygame
 
 # Download temporary EXE File
 <a href="https://github.com/proarafat/surprise-prank-python/raw/main/main-exe/main-exe.zip">
